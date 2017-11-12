@@ -5,7 +5,7 @@ when playing, the player will be show a random number between 1 and 13, they wil
 
 ## User Stories:
 
-As a user I would like the game to be easy to play
-As a user I would like to be rewarded if my answer is right
-As a user I should be able to play against an AI
-As a user I would like to enter my name
+* As a user I would like the game to be easy to play
+* As a user I would like to be rewarded if my answer is right
+* As a user I should be able to play against an AI
+* As a user I would like to enter my name
