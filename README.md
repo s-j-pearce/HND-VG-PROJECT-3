@@ -1,7 +1,9 @@
 # HND-VG-PROJECT-3
+### Anagram Solver 
+### Required language: C or C++
 ## Description:
 
-when playing, the player will be show a random number between 1 and 13, they will then be asked to decide whether the next number will be "higher" or "lower", If they guess correct the player is awarded with a 'cash' price and the game continues, if they guess incorrectly then the game comes to an end.
+Design a system that will allow the player to enter up to 3 random letters. The system will return the best, largest, valid English word that can be made up of the 3 letters (blanks/spaces are not allowed). for example: TCA should return CAT, OZR should return OR, ZZA should return A.
 
 ## User Stories:
 
