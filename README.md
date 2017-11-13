@@ -7,7 +7,13 @@ Design a system that will allow the player to enter up to 3 random letters. The 
 
 ## User Stories:
 
-* As a user I would like the game to be easy to play
-* As a user I would like to be rewarded if my answer is right
-* As a user I should be able to play against an AI
-* As a user I would like to enter my name
+1. As the user I would like to be able to input characters.
+2. As the user I would like to know that I cannot enter any more than 3 characters.
+3. As the user I would like to be shown the correct word with the letters i have input.
+4. As the user I would like to only input letters.
+
+## Flow Chart:
+
+## timeline:
+
+## Gant chart:
