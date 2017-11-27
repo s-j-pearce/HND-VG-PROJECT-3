@@ -13,7 +13,7 @@ Design a system that will allow the player to enter up to 3 random letters. The 
 4. As the user I would like to only input letters.
 
 ## Flow Chart:
-![flow-chart-anagram](https://user-images.githubusercontent.com/31927590/33278003-19980054-d392-11e7-8ede-9af9173c849d.png)
+![flow-chart-anagram 1](https://user-images.githubusercontent.com/31927590/33278033-320b346c-d392-11e7-816e-b044db345390.png)
 ## timeline:
 
 ## Gant chart:
