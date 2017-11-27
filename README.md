@@ -14,6 +14,6 @@ Design a system that will allow the player to enter up to 3 random letters. The 
 
 ## Flow Chart:
 ![flow-chart-anagram 2](https://user-images.githubusercontent.com/31927590/33278170-9e255a4c-d392-11e7-9999-c9c57d3a49fd.png)
-## timeline:
+## Timeline:
 
 ## Gant chart:
